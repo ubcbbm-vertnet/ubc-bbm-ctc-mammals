@@ -1,0 +1,90 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for February, 2014, generated on 2014/03/13
+
+Number of download events that retrieved data from the resource: 35 (out of 131 download events in this period)
+Total number of records downloaded: 1175 (out of 1275149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 989
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-02-13 ; Times: 4
+	Date: 2014-02-14 ; Times: 3
+	Date: 2014-02-17 ; Times: 6
+	Date: 2014-02-18 ; Times: 1
+	Date: 2014-02-19 ; Times: 4
+	Date: 2014-02-23 ; Times: 2
+	Date: 2014-02-24 ; Times: 2
+	Date: 2014-02-26 ; Times: 7
+	Date: 2014-02-27 ; Times: 5
+	Date: 2014-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus carolinensis AND preparations:skull" ; Times: 1 ; Records each time: 14 
+	Query: "lynx canadensis country:Canada" ; Times: 1 ; Records each time: 16 
+	Query: "mammalia mus eventdate > 1937-1-1 eventdate < 1941-1-1" ; Times: 1 ; Records each time: 6 
+	Query: "specificepithet:noctivagans genus:Lasionycteris" ; Times: 2 ; Records each time: 4 
+	Query: "mammalia mus eventdate > 1960-1-1 eventdate < 1966-1-1" ; Times: 1 ; Records each time: 129 
+	Query: "canis lupus" ; Times: 1 ; Records each time: 1 
+	Query: "Ursus americanus eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 6 
+	Query: "Lepus americanus country:Canada" ; Times: 1 ; Records each time: 1 
+	Query: "mammalia mus eventdate > 1940-1-1 eventdate < 1945-1-1" ; Times: 1 ; Records each time: 16 
+	Query: "Sciurus carolinensis" ; Times: 1 ; Records each time: 1 
+	Query: "mammalia mus eventdate > 1944-1-1 eventdate < 1951-1-1" ; Times: 1 ; Records each time: 1 
+	Query: "Sciurus niger" ; Times: 1 ; Records each time: 3 
+	Query: "corynorhinus townsendii stateprovince:California country:United States mappable:1" ; Times: 1 ; Records each time: 552 
+	Query: "specificepithet:noctivagans genus:lasionycteris" ; Times: 1 ; Records each time: 1 
+	Query: "mammalia mus eventdate > 1950-1-1 eventdate < 1956-1-1" ; Times: 1 ; Records each time: 14 
+	Query: "Sciurus carolinensis AND preparations:"skull"" ; Times: 1 ; Records each time: 3 
+	Query: ""Sciurus niger" AND preparations:skeleton type:specimen" ; Times: 1 ; Records each time: 1 
+	Query: "mammalia mus eventdate > 1935-1-1 eventdate < 1937-1-1" ; Times: 1 ; Records each time: 12 
+	Query: "Ochotona princeps eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 3 
+	Query: "boulder" ; Times: 2 ; Records each time: 6 
+	Query: "Cynomys ludovicianus eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 1 
+	Query: "tamiasciurus hudsonicus distance(location,geopoint(42.22200908140189,-75.596923828125))<409104.35159555933" ; Times: 1 ; Records each time: 12 
+	Query: ""Sciurus carolinensis" AND preparations:skull" ; Times: 1 ; Records each time: 3 
+	Query: "corynorhinus townsendii stateprovince:California mappable:1" ; Times: 1 ; Records each time: 6 
+	Query: "jewett" ; Times: 1 ; Records each time: 12 
+	Query: "Sciurus carolinensis preparations:"skull"" ; Times: 1 ; Records each time: 3 
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2 ; Records each time: 1 
+	Query: "Sciurus carolinensis preparations:skull" ; Times: 1 ; Records each time: 1 
+	Query: "mammalia mus" ; Times: 1 ; Records each time: 12 
+	Query: "pipistrellus subflavus type:specimen" ; Times: 1 ; Records each time: 31 
+	Query: "Zapus hudsonius eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 57 
+	Query: "country:Mexico" ; Times: 1 ; Records each time: 33 
+
+Cumulative values for this year:
+
+Number of download events that retrieved data from the resource: 84
+Total number of records downloaded: 14286
+
+Cumulative values since the beginning:
+
+Number of download events that retrieved data from the resource: 77
+Total number of records downloaded: 19976
+
+
+End of report.
+
+
+Brief explanation of each stat:
+
+1) Number of download events that retrieved data from the resource. The amount of times any record from your institution has appeared in a download. The number in parenthesis is how many result sets have been downloaded in total in the network, in the given period. We believe this is helpful to see the proportion of all the download events that have records from a particular institution.
+
+2) Total number of records downloaded. The amount of times any record from your institution has been downloaded. The number in parenthesis is the total amount of records that have been downloaded from the VertNet network in the given period.
+
+3) Total number of unique records downloaded. The number of individual records from your collection that have been downloaded. We believe this is helpful to calculate the proportion of your collection that has been downloaded.
+
+The main difference between (3) and (2) can be better explained with an example: If your collection has 3 records, 'a', 'b' and 'c', and 'a' is downloaded 3 times and 'b' is downloaded once, (2) would be 4, because there have been 4 downloaded records, but (3) would be 2, because only records 'a' and 'b' have been downloaded.
+
+4) Number of different countries. The amount of individual countries that have downloaded data from your institution in the given period.
+
+5) Breakdown of the individual countries, counting how many times they have downloaded records from your institution.
+
+6) Breakdown of dates when queries where made, with the number of downloads each day.
+
+7) Breakdown of query terms. These are the actual queries that were performed and which retrieved data,  from your institution. It also shows the number of times that query has been performed and the number of records pulled from your institution each time.
