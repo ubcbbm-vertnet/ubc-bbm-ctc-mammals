@@ -1,0 +1,132 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 7
+	Date: 2014-04-06 ; Times: 2
+	Date: 2014-04-07 ; Times: 2
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-14 ; Times: 2
+	Date: 2014-04-16 ; Times: 6
+	Date: 2014-04-17 ; Times: 4
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-20 ; Times: 7
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-25 ; Times: 1
+	Date: 2014-04-27 ; Times: 1
+	Date: 2014-04-28 ; Times: 3
+	Date: 2014-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scrofa genus:Sus class:Mammalia" ; Times: 1
+	Query: "macaque" ; Times: 1
+	Query: "theropithecus" ; Times: 3
+	Query: "genus:sus specificepithet:scrofa institutioncode:ubcbbm" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "bat institutioncode:UBCBBM" ; Times: 2
+	Query: "Elephas" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:townsendii genus:Plecotus institutioncode:UBCBBM mappable:1" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "specificepithet:townsendii genus:Plecotus institutioncode:UBCBBM mappable:1" ; Times: 1
+	Query: "McTaggart Cowan 1960" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 3
+	Query: "lepus europaeus" ; Times: 1
+	Query: "species:Ochotona princeps" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 2
+	Query: "Taurotragus oryx type:specimen" ; Times: 2
+	Query: "McT. Cowan year >= 1960 year <= 2000" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "scalopus aquaticus illinois" ; Times: 1
+	Query: "capra hircus" ; Times: 6
+	Query: "american pika" ; Times: 1
+	Query: "Ian McT. Cowan" ; Times: 1
+	Query: "Ian McT. Cowan 1934" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 433 download events in this period)
+Total number of records downloaded: 2664 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2206
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-02 ; Times: 3
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-08 ; Times: 1
+	Date: 2014-04-10 ; Times: 1
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-17 ; Times: 2
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-20 ; Times: 1
+	Date: 2014-04-22 ; Times: 4
+	Date: 2014-04-23 ; Times: 2
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:ubcbbm" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: ""Mustela nivalis" type:specimen" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "peromyscus truei" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "Angola mammalia" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Chaetodipus" ; Times: 4
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 42
+Total number of records retrieved from searches: 758
+Number of download events that retrieved data from the resource: 180
+Total number of records downloaded: 21039
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 42
+Total number of records retrieved from searches: 758
+Number of download events that retrieved data from the resource: 257
+Total number of records downloaded: 41015
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
