@@ -1,0 +1,177 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 1186
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 3
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-07 ; Times: 3
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-18 ; Times: 8
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-20 ; Times: 4
+	Date: 2014-08-21 ; Times: 10
+	Date: 2014-08-22 ; Times: 5
+	Date: 2014-08-23 ; Times: 3
+	Date: 2014-08-24 ; Times: 2
+	Date: 2014-08-25 ; Times: 4
+	Date: 2014-08-26 ; Times: 5
+	Date: 2014-08-27 ; Times: 1
+	Date: 2014-08-29 ; Times: 7
+	Date: 2014-08-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vole" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:neurotrichus AND (NOT HSU)" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "lutra institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 2
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 3
+	Query: "nutria" ; Times: 3
+	Query: "genus:Canis institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:bicornis genus:diceros" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 5
+	Query: "class:Mammalia institutioncode:UBCBBM" ; Times: 2
+	Query: "Giraffe" ; Times: 3
+	Query: "Artiodactyla class:Mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "tundra vole" ; Times: 1
+	Query: "quokka" ; Times: 1
+	Query: "heermann" ; Times: 2
+	Query: "tapir" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Carnivora class:Mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "loxodonta skull" ; Times: 4
+	Query: "elephas maximus" ; Times: 1
+	Query: "loxodonta skull type:specimen" ; Times: 3
+	Query: "armadillo" ; Times: 1
+	Query: "Pika year >= 1971 year <= 2014" ; Times: 2
+	Query: "peromyscus leucopus arizona type:specimen mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"california" genus:aplodontia" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "armadillo texas" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "Nutria" ; Times: 1
+	Query: "country:"Colombia" specificepithet:hybridus genus:Ateles class:Mammalia" ; Times: 2
+	Query: "american pika" ; Times: 2
+	Query: "country:"Colombia" genus:Ateles class:Mammalia" ; Times: 1
+	Query: "institutioncode:UBCBBM (baculum)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 273 download events in this period)
+Total number of records downloaded: 5629 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3786
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 2
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-17 ; Times: 3
+	Date: 2014-08-18 ; Times: 5
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 12
+	Date: 2014-08-25 ; Times: 2
+	Date: 2014-08-26 ; Times: 8
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 5
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "genus:Canis institutioncode:UBCBBM" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "Carnivora class:Mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "gulo gulo type:specimen" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 347
+Total number of records retrieved from searches: 6235
+Number of download events that retrieved data from the resource: 315
+Total number of records downloaded: 33815
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 347
+Total number of records retrieved from searches: 6235
+Number of download events that retrieved data from the resource: 392
+Total number of records downloaded: 53791
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
