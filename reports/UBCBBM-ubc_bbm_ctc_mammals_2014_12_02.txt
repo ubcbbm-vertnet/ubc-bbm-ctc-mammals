@@ -1,0 +1,88 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 713
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 1
+	Date: 2014-11-03 ; Times: 1
+	Date: 2014-11-04 ; Times: 1
+	Date: 2014-11-09 ; Times: 1
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-13 ; Times: 7
+	Date: 2014-11-18 ; Times: 2
+	Date: 2014-11-20 ; Times: 2
+	Date: 2014-11-21 ; Times: 3
+	Date: 2014-11-22 ; Times: 6
+	Date: 2014-11-24 ; Times: 4
+	Date: 2014-11-27 ; Times: 3
+	Date: 2014-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus type:specimen" ; Times: 2
+	Query: "mustela erminea institutioncode:ubcbbm" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Didelphis virginianus type:specimen mappable:1" ; Times: 1
+	Query: "erminea stateprovince:"British Columbia" country:"Canada" institutioncode:UBCBBM" ; Times: 5
+	Query: "mustela erminea catalognumber:M009306 institutioncode:ubcbbm" ; Times: 1
+	Query: "nutria mammalia" ; Times: 2
+	Query: "type:specimen institutioncode:UBCBBM year >= 2000 year <= 2014" ; Times: 1
+	Query: "UBCBBM raccoon" ; Times: 1
+	Query: "african elephant" ; Times: 2
+	Query: "Blue whale" ; Times: 1
+	Query: "chiroptera country:"Indonesia" institutioncode:UBCBBM year >= 1700 year <= 2014" ; Times: 1
+	Query: "bobcat (california)" ; Times: 1
+	Query: "sciurus niger stateprovince:"oklahoma" mappable:1" ; Times: 1
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "pocket gopher" ; Times: 1
+	Query: "mustela erminea vancouver is institutioncode:ubcbbm" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Saw-whet type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "erminea institutioncode:UBCBBM" ; Times: 1
+	Query: "mustela erminea haidarum institutioncode:ubcbbm" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 465
+Total number of records retrieved from searches: 8060
+Number of download events that retrieved data from the resource: 367
+Total number of records downloaded: 46752
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 465
+Total number of records retrieved from searches: 8060
+Number of download events that retrieved data from the resource: 444
+Total number of records downloaded: 66728
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
