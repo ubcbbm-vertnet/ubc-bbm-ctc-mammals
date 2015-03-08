@@ -1,0 +1,130 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 4
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 2
+	Date: 2015-02-20 ; Times: 2
+	Date: 2015-02-21 ; Times: 3
+	Date: 2015-02-24 ; Times: 6
+	Date: 2015-02-27 ; Times: 2
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Berardius" ; Times: 1
+	Query: "genus:Ursus year >= 1931 year <= 1933" ; Times: 2
+	Query: "red panda" ; Times: 2
+	Query: "Northwestern Deermouse recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "UBCBBM CTC M003483" ; Times: 1
+	Query: "recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "odocoileus type:specimen institutioncode:ubcbbm" ; Times: 1
+	Query: "type:specimen genus:Ursus year >= 1931 year <= 1933" ; Times: 1
+	Query: "odocoileus type:specimen institutioncode:ubcbbm year >= 1946 year <= 1946" ; Times: 1
+	Query: "Tamias amoenus caurinus" ; Times: 1
+	Query: "blarina stateprovince:"missouri"" ; Times: 2
+	Query: "flying squirrel" ; Times: 2
+	Query: "ondatra zibethicus vancouver" ; Times: 1
+	Query: "odocoileus type:specimen institutioncode:ubcbbm year >= 1945 year <= 1947" ; Times: 1
+	Query: "catalognumber:M003509 institutioncode:UBCBBM" ; Times: 2
+	Query: "Jumping Mouse recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "kangaroo rat recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "odocoileus type:specimen institutioncode:ubcbbm year >= 1929 year <= 1931" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "specificepithet:sungorus genus:Phodopus" ; Times: 1
+	Query: "arctic ground squirrel" ; Times: 1
+	Query: "Brush Mouse recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 326 download events in this period)
+Total number of records downloaded: 810 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 730
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "genus:Monodon" ; Times: 1
+	Query: "genus:Berardius" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 516
+Total number of records retrieved from searches: 8551
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 8257
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 563
+Total number of records retrieved from searches: 9254
+Number of download events that retrieved data from the resource: 575
+Total number of records downloaded: 75902
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
