@@ -1,0 +1,123 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 416
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-10 ; Times: 2
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 5
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Reithrodontomys megalotis longicaudus type:specimen recordedby:Brooks institutioncode:UBCBBM" ; Times: 2
+	Query: "marmota vancouverensis" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "desert pocket mouse" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Illinois"" ; Times: 1
+	Query: "spermophilus pygmaeus" ; Times: 3
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 2
+	Query: "gray wolf" ; Times: 1
+	Query: "american pika" ; Times: 4
+	Query: "hyaena" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "rat type:specimen recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "queen charlotte Ursus americanus type:specimen" ; Times: 1
+	Query: "country:"Canada" genus:Scalopus" ; Times: 1
+	Query: "elephant skull adult type:specimen" ; Times: 1
+	Query: "ubcbbm red panda" ; Times: 1
+	Query: "mouse type:specimen recordedby:Brooks institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 298 download events in this period)
+Total number of records downloaded: 2161 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2059
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 7
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Corynorhinus townsendii pallescens" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Plecotus townsendii pallescens" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 546
+Total number of records retrieved from searches: 8967
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 10418
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 593
+Total number of records retrieved from searches: 9670
+Number of download events that retrieved data from the resource: 599
+Total number of records downloaded: 78063
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
