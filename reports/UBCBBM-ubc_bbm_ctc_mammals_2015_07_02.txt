@@ -1,0 +1,176 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 382
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Romania ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 5
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 7
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 6
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-24 ; Times: 5
+	Date: 2015-06-25 ; Times: 7
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: ""ursus arctos" stateprovince:"Alberta"" ; Times: 2
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "Lasiurus cinereus country:"Canada"" ; Times: 2
+	Query: "Equus grevyi" ; Times: 2
+	Query: "genus:puma (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:puma (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "harbor seal Phoca vitulina" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "stateprovince:"Alberta" (waterton lakes)" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Canada"" ; Times: 1
+	Query: "mammalia Woodford Illinois" ; Times: 1
+	Query: "grey owl" ; Times: 4
+	Query: "national museum of natural history ursus skin" ; Times: 1
+	Query: "muntiacus reevesi" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "Whale skeleton" ; Times: 3
+	Query: "Canis aureus" ; Times: 2
+	Query: "mammal Woodford Illinois" ; Times: 4
+	Query: "mellivora capensis" ; Times: 1
+	Query: "country:"United Kingdom" specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "Antrozous pallidus country:"Canada"" ; Times: 1
+	Query: "Natural History Museum London" ; Times: 1
+	Query: "mammalia lima" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "specificepithet:harringtoni genus:Taterillus" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "viburnum" ; Times: 1
+	Query: "Preblei" ; Times: 1
+	Query: "lontra longicaudis mexico" ; Times: 2
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "american pika" ; Times: 4
+	Query: "Corynorhinus townsendii stateprovince:"british columbia"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"Canada"" ; Times: 1
+	Query: "mammal Woodford county Illinois" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1524 download events in this period)
+Total number of records downloaded: 813 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 790
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 16
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ziphiidae" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "Lasiurus cinereus country:"Canada"" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Canada"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States" mappable:1" ; Times: 2
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "muntiacus reevesi" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "Antrozous pallidus country:"Canada"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "lontra longicaudis mexico" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"Canada"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 712
+Total number of records retrieved from searches: 10619
+Number of download events that retrieved data from the resource: 222
+Total number of records downloaded: 18027
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 759
+Total number of records retrieved from searches: 11322
+Number of download events that retrieved data from the resource: 707
+Total number of records downloaded: 85672
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
