@@ -1,0 +1,199 @@
+Report for Institution Code UBCBBM, Resource CTC
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1295
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 73
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 48
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 4
+	Date: 2015-08-25 ; Times: 5
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "meles meles" ; Times: 2
+	Query: "equus burchelli" ; Times: 1
+	Query: "Lepus Fraser institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus stateprovince:"British Columbia" institutioncode:UBCBBM AND (alta)" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.41097319969587,-122.6513671875))<39648.43250824611" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "lepus americanus stateprovince:"British Columbia" institutioncode:UBCBBM" ; Times: 2
+	Query: "lepus americanus distance(location,geopoint(49.610709938074244,-122.431640625))<53666" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.724479188713005,-120.673828125))<100000" ; Times: 1
+	Query: "catalognumber:M009791 institutioncode:UBCBBM" ; Times: 1
+	Query: "county:"Lincoln" stateprovince:"Oklahoma" class:Mammalia" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "catalognumber:M009793 institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus stateprovince:"British Columbia" institutioncode:UBCBBM AND (NOT Alta)" ; Times: 1
+	Query: "Lepus stateprovince:"Washington" institutioncode:UBCBBM AND (NOT Alta)" ; Times: 1
+	Query: "Sorex bendirii" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.41097319969587,-122.6513671875))<45305" ; Times: 2
+	Query: ""salmon arm" institutioncode:ubcbbm" ; Times: 2
+	Query: "Lepus americanus 430 stateprovince:"British Columbia" institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.167338606291075,-122.728271484375))<100000" ; Times: 1
+	Query: "Crocidura fischeri" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.18170338770662,-122.54150390625))<58867" ; Times: 1
+	Query: "type:specimen (harbor seal) AND (NOT alaska) year >= 1900 year <= 1940" ; Times: 1
+	Query: "water shrew" ; Times: 3
+	Query: "lepus americanus distance(location,geopoint(47.989921667414166,-119.443359375))<100000" ; Times: 1
+	Query: "lepus americanus Fraser stateprovince:"British Columbia" institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.35375571830995,-122.34375))<78430" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(48.27588152743497,-121.83837890625))<66141" ; Times: 1
+	Query: "Lepus stateprovince:"British Columbia" institutioncode:UBCBBM AND (NOT Alta)" ; Times: 1
+	Query: "lepus americanus british columbia" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(48.3416461723746,-122.486572265625))<100000" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.18170338770662,-122.54150390625))<100000" ; Times: 1
+	Query: "lepus americanus fraser institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus institutioncode:UBCBBM" ; Times: 1
+	Query: "catalognumber:M009792 institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.610709938074244,-122.431640625))<39648" ; Times: 1
+	Query: "Dicrostonyx richardsoni" ; Times: 1
+	Query: "steller sea lion" ; Times: 1
+	Query: "Taterillus harringtoni" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.03786794532644,-122.706298828125))<49048.71062599085" ; Times: 13
+	Query: "29475" ; Times: 1
+	Query: "sigmodon pima county" ; Times: 3
+	Query: "lepus americanus UBCBBM CTC vancouver" ; Times: 1
+	Query: "lepus americanus stateprovince:"British Columbia" institutioncode:UBCBBM AND (Alta)" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.35375571830995,-122.34375))<100000" ; Times: 1
+	Query: "Lepus americanus stateprovince:"British Columbia" institutioncode:UBCBBM" ; Times: 1
+	Query: "american pika" ; Times: 1
+	Query: "Lepus stateprovince:"British Columbia" institutioncode:UBCBBM" ; Times: 1
+	Query: ""Notre Dame"" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.167338606291075,-122.728271484375))<59636" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1138 download events in this period)
+Total number of records downloaded: 3342 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2465
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 72
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-06 ; Times: 4
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 7
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 39
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Aotidae" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "Sorex ugyunak" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "Sorex jacksoni" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "order: pholidota" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 2
+	Query: "Sorex rohweri" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "perognathus flavescens" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Dicrostonyx hudsonius" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "spilogale putorius distance(location,geopoint(35.110304562291745,-93.90314385294914))<423808.6749531791" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 73
+Total number of records retrieved from searches: 1295
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 3342
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 73
+Total number of records retrieved from searches: 1295
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 3342
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
