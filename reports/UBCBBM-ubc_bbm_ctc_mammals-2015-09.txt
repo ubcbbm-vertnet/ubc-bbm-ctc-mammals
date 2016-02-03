@@ -1,0 +1,247 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 1066
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 79
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-10 ; Times: 5
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 12
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-08 ; Times: 9
+	Date: 2015-09-30 ; Times: 10
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 12
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 8
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 6
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis evotis" ; Times: 3
+	Query: "Dipodomys spectabilis" ; Times: 3
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "black bear county:&#34;skeena&#34; stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 2
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "ateles hybridus" ; Times: 3
+	Query: "genus:Taxidea stateprovince:&#34;British Columbia&#34; year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen (skeleton) institutioncode:UBCBBM" ; Times: 4
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "crocuta guinea" ; Times: 1
+	Query: "Nine-banded armadillo mappable:1" ; Times: 1
+	Query: "missouri sylvilagus aquaticus" ; Times: 1
+	Query: "missouri squirrel" ; Times: 1
+	Query: "UBCBBM gorilla" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1961 year &lt;= 1963" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale" ; Times: 4
+	Query: "Myotis leibii" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale distance(location,geopoint(33.89622236440885,-95.44522359967232))&lt;362887.4173131708" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "pangolin" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "water shrew" ; Times: 16
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "golden-mantled ground squirrel" ; Times: 2
+	Query: "least weasel" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 2
+	Query: "african elephant" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1956 year &lt;= 1963" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 2
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Water Shrew" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 3
+	Query: "pygmy shrew" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "black bear institutioncode:UBCBBM" ; Times: 2
+	Query: "Taxidea taxus jeffersonii stateprovince:&#34;British Columbia&#34;" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1958 year &lt;= 1963" ; Times: 1
+	Query: "saimiri oerstedii" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 1
+	Query: "cuniculus paca Mexico" ; Times: 1
+	Query: "peromyscus attwateri stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "white footed mouse" ; Times: 2
+	Query: "Myotis keenii" ; Times: 3
+	Query: "genus:Papio preparations:skull" ; Times: 2
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "star nosed mole" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "polar bear skull" ; Times: 1
+	Query: "&#34;north american porcupine&#34;" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;British Columbia&#34;" ; Times: 4
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "texas pocket gopher" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 1045 download events in this period)
+Total number of records downloaded: 39923
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 3
+	Country: United States ; Times: 111
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 33
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 6
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 33
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Moresby" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "New Guinea" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "saguinus fuscicollis" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+
+
+End of report.
