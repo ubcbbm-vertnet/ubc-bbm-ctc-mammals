@@ -1,0 +1,91 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 1337
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 23
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus hemionus type:specimen preparations:pelt institutioncode:UBCBBM" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; american pika &#34;British Columbia&#34;" ; Times: 1
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "heather vole &#34;I.McT. Cowan&#34;" ; Times: 3
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; american pika" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; Ochotona princeps brunnescens &#34;British Columbia&#34;" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "enhydra lutris type:specimen institutioncode:UBCBBM" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34;" ; Times: 4
+	Query: "pacific marten" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; Mammalia" ; Times: 8
+	Query: "spermophilus saturatus" ; Times: 1
+	Query: "Sitatunga" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 230 download events in this period)
+Total number of records downloaded: 2979
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 40
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "babyrousa" ; Times: 1
+	Query: "babirusa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 35
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
