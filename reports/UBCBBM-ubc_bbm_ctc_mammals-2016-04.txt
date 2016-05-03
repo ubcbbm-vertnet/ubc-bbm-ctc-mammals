@@ -1,0 +1,198 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1123
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 74
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 17
+	Country: Russia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 12
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-09 ; Times: 16
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-12 ; Times: 7
+	Date: 2016-04-13 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Odocoileus virginianus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:glaucomys year &gt;= 1940 year &lt;= 2015" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;gulo&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;wolverine&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;rangifer tarandus&#34;" ; Times: 1
+	Query: "Myotis leibii Ontario" ; Times: 10
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Ondatra&#34;" ; Times: 2
+	Query: "woodland caribou" ; Times: 3
+	Query: "Myotis leibii ONTARIO 1" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Sorex hoyi&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:glaucomys year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Spilogale&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;odocoileus&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Erethizon&#34;" ; Times: 1
+	Query: "pronghorn" ; Times: 2
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Scapanus&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;mephitis mephitis&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "UBCBBM M003329" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;lynx canadensis&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;rangifer&#34;" ; Times: 1
+	Query: "family:Dasyuridae institutioncode:UBCBBM" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Ovis canadensis&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;cougar&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Erethizon dorsatum nigrescens&#34;" ; Times: 1
+	Query: "UBCBBM M005650" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;lynx rufus&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Myotis melanorhinus&#34;" ; Times: 1
+	Query: "desmana" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Martes americana&#34;" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Castor canadensis&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Lepus townsendii&#34;" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Ondatra zibethicus&#34;" ; Times: 2
+	Query: "least weasel" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;coyote&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Ursus americanus&#34;" ; Times: 1
+	Query: "UBCBBM M000170" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;cariboo&#34;" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "Myotis leibii Ontario 1" ; Times: 1
+	Query: "white tailed deer usa" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Microtus townsendii&#34;" ; Times: 2
+	Query: "107 ONTARIO 1" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Perognathus parvus&#34;" ; Times: 2
+	Query: "dipodomys merriami tucson" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;sea lion&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;canis lupus&#34;" ; Times: 2
+	Query: "(orca) institutioncode:UBCBBM" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;ursus arctos&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;whale&#34;" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "pika" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;callorhinus&#34;" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Phenacomys intermedius&#34;" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;river otter&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Neotoma cinerea&#34;" ; Times: 2
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;mule deer&#34;" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "(chalco)" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Microtus richardsoni&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Lepus americanus&#34;" ; Times: 4
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;ursus americanus&#34;" ; Times: 1
+	Query: "institutioncode:ubcbbm Peramelidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 1312 download events in this period)
+Total number of records downloaded: 17451
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 22
+	Country: United States ; Times: 90
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 8
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-08 ; Times: 5
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;Lepus americanus&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
