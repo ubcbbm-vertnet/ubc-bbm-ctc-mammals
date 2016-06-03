@@ -1,0 +1,91 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 620
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Canada ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 5
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 19
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "pika" ; Times: 3
+	Query: "dipodomys compactus" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "genus:Panthera institutioncode:UBCBBM" ; Times: 2
+	Query: "family:Peramelidae institutioncode:UBCBBM" ; Times: 1
+	Query: "family:Dasyuridae institutioncode:UBCBBM" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "family:Felidae institutioncode:UBCBBM" ; Times: 2
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Gulo weight" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "type:specimen family:Felidae preparations:skeleton institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Carnivora country:&#34;United States&#34; AND (Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 327 download events in this period)
+Total number of records downloaded: 4990
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "urocyon littoralis" ; Times: 1
+
+
+End of report.
