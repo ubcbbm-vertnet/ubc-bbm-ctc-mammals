@@ -1,0 +1,206 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2250
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: Canada ; Times: 20
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-22 ; Times: 6
+	Date: 2016-06-21 ; Times: 26
+	Date: 2016-06-20 ; Times: 25
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-01 ; Times: 27
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx institutioncode:UBCBBM" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "order:Soricomorpha country:&#34;United States&#34; AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "family:Soricidae order:Soricomorpha country:&#34;United States&#34; preparations:skull AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "order:Carnivora country:&#34;United States&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 4
+	Query: "(Guiguet July 25 1948) institutioncode:UBCBBM" ; Times: 1
+	Query: "bison bison   " ; Times: 12
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Bison" ; Times: 1
+	Query: "genus:Puma institutioncode:UBCBBM" ; Times: 2
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "order:Soricomorpha country:&#34;United States&#34; preparations:skull AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "M000437" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "saimiri oerstedii" ; Times: 2
+	Query: "family:Felidae preparations:skeleton institutioncode:UBCBBM" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Lasiurus AND CA AND Island" ; Times: 1
+	Query: "M006044" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:compactus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (compactus) mappable:1" ; Times: 1
+	Query: "genus:Scalopus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (texanus) mappable:1" ; Times: 1
+	Query: "family:Soricidae country:&#34;United States&#34; preparations:Skull AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Leopardus institutioncode:UBCBBM" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+	Query: "genus:Scalopus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:canis" ; Times: 2
+	Query: "genus:bison" ; Times: 6
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 4
+	Query: "order:Carnivora country:&#34;United States&#34; AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 2
+	Query: "Felis catus" ; Times: 2
+	Query: "canis lupus   " ; Times: 8
+	Query: "aardvark" ; Times: 1
+	Query: "family:Soricidae country:&#34;United States&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "giraffe" ; Times: 4
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 23
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "water shrew" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 3
+	Query: "order:Carnivora country:&#34;United States&#34; AND (NOT Alaska) AND (NOT juvenile) institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 1052 download events in this period)
+Total number of records downloaded: 14556
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 83
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 7
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-15 ; Times: 13
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 20
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "genus:Tadarida specificepithet:brasiliensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "macropus rufus" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "deserticola specificepithet:californicus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:Scalopus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (texanus) mappable:1" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "M006044" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "order:Carnivora country:&#34;United States&#34; AND (NOT Alaska) institutioncode:UBCBBM" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:compactus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (compactus) mappable:1" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
