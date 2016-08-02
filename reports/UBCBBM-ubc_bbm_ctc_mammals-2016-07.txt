@@ -1,0 +1,146 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 724
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 47
+	Country: Japan ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 3
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 4
+	Date: 2016-07-18 ; Times: 14
+	Date: 2016-07-20 ; Times: 10
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-26 ; Times: 3
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-21 ; Times: 3
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-09 ; Times: 2
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "arctic fox" ; Times: 1
+	Query: "Trowbridge" ; Times: 2
+	Query: "White-tailed Jackrabbit" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "mammal tissue samples" ; Times: 1
+	Query: "Pacific Loon" ; Times: 1
+	Query: "seal institutioncode:UBCBBM" ; Times: 1
+	Query: "Herpestes ichneumon 1" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 2
+	Query: "Ochotona pusilla" ; Times: 8
+	Query: "3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 1
+	Query: "Sylvilagus floridanus alacer" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 15
+	Query: "ochotona pusilla" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 4
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "giraffe institutioncode:UBCBBM" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "specificepithet:subtilis genus:Sicista" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 26
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 156 (out of 1219 download events in this period)
+Total number of records downloaded: 23044
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 36
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 11
+	Date: 2016-07-10 ; Times: 8
+	Date: 2016-07-13 ; Times: 12
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 4
+	Date: 2016-07-14 ; Times: 6
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 8
+	Date: 2016-07-18 ; Times: 9
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 4
+	Date: 2016-07-26 ; Times: 8
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 5
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 12
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "spalacidae" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "Ochotona pusilla" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 3
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "eira barbara" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+
+End of report.
