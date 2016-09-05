@@ -1,0 +1,167 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 6
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "white-tailed jackrabbit" ; Times: 4
+	Query: "raccoon institutioncode:UBCBBM" ; Times: 2
+	Query: "berardius bairdii" ; Times: 1
+	Query: "ringed seal" ; Times: 1
+	Query: "three toed sloth" ; Times: 1
+	Query: "ribbon seal" ; Times: 1
+	Query: "eulemur mongoz" ; Times: 2
+	Query: "skull type:specimen genus:erythrocebus" ; Times: 1
+	Query: "skulls" ; Times: 1
+	Query: "Aotus nigriceps 1" ; Times: 1
+	Query: "Mandrillus skull type:specimen" ; Times: 1
+	Query: "Ateles paniscus 1" ; Times: 1
+	Query: "Homo sapiens AND Island" ; Times: 1
+	Query: "American Pika" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;216446" ; Times: 1
+	Query: "african elephant" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "cervus canadensis year &gt;= 1939 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "oreamnos zoo" ; Times: 1
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 haslength:1" ; Times: 2
+	Query: "arctogalidia trivirgata" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "midge" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Moschiola" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 21
+	Query: "cynogale bennettii" ; Times: 1
+	Query: "eulemur" ; Times: 2
+	Query: "Ateles hybridus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 924 download events in this period)
+Total number of records downloaded: 12130
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 19
+	Country: France ; Times: 7
+	Country: United States ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-31 ; Times: 10
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 16
+	Date: 2016-08-24 ; Times: 7
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "microtus californicus" ; Times: 1
+	Query: "Theropithecus skull type:specimen" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "skull type:specimen genus:chlorocebus" ; Times: 1
+	Query: "skull type:specimen genus:erythrocebus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "berardius bairdii" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "vntype:specimen genus:Microtus class:Mammalia basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1 mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
