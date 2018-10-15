@@ -1,0 +1,60 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 512
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 4
+	Date: 2017-11-30 ; Times: 4
+	Date: 2017-11-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Elephas institutioncode:UBCBBM" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 2
+	Query: "M130" ; Times: 1
+	Query: "(bear) institutioncode:UBCBBM" ; Times: 2
+	Query: "least chipmunk" ; Times: 1
+	Query: "locality:calcutta year &gt;= 1951 year &lt;= 1953" ; Times: 1
+	Query: "specificepithet:fischeri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1101 download events in this period)
+Total number of records downloaded: 428
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 7
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 4
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+
+End of report.
