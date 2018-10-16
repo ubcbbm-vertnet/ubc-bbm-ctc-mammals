@@ -1,0 +1,263 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 2978
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 162
+	Country: Canada ; Times: 34
+	Country: Finland ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 13
+	Date: 2018-04-23 ; Times: 50
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 9
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 35
+	Date: 2018-04-01 ; Times: 12
+	Date: 2018-04-03 ; Times: 12
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 13
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-07 ; Times: 6
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 13
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamias specificepithet:ruficaudus mappable:1" ; Times: 2
+	Query: "genus:ovibos" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1" ; Times: 2
+	Query: "324 Dipodomys" ; Times: 1
+	Query: "genus:Microtus specificepithet:canicaudus mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:rohweri mappable:1" ; Times: 2
+	Query: "sigmodon hispidus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:gapperi order:Rodentia class:Mammalia institutioncode:UBCBBM" ; Times: 4
+	Query: "genus:Dicrostonyx specificepithet:richardsoni mappable:1" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 3
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Washington&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "class:Mammalia (Dalquist) institutioncode:UBCBBM" ; Times: 2
+	Query: "genus:Synaptomys specificepithet:borealis mappable:1 hasmass:1" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;British Columbia&#34; year &gt;= 1994 year &lt;= 1995" ; Times: 1
+	Query: "genus:Ovibos specificepithet:moschatus mappable:1" ; Times: 1
+	Query: "genus:Castor specificepithet:canadensis mappable:1 hasmass:1" ; Times: 1
+	Query: "bobcat mappable:1" ; Times: 3
+	Query: "lobodon" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;King&#34; stateprovince:&#34;Washington&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Mus country:&#34;Canada&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "320 Dipodomys" ; Times: 1
+	Query: "specificepithet:arcticus genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "genus:Canis specificepithet:latrans mappable:1 hasmass:1" ; Times: 1
+	Query: "Northern fur seal" ; Times: 1
+	Query: "genus:Mephitis specificepithet:mephitis mappable:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1994 year &lt;= 1995 institutioncode:UBCBBM" ; Times: 1
+	Query: "odocoileus hemionus eremicus" ; Times: 1
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; institutioncode:UBCBBM" ; Times: 3
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:bendirii mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Zapus specificepithet:hudsonius mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:lagenorhynchus obliquidens" ; Times: 2
+	Query: "genus:Microtus specificepithet:canicaudus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:jacksoni mappable:1" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:compactus mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Yukon&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Ursus specificepithet:americanus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "Microtus year &gt;= 2000 year &lt;= 2018 institutioncode:UBCBBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Didelphis" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:jacksoni mappable:1 hasmass:1" ; Times: 2
+	Query: "class:Mammalia year &gt;= 1995 institutioncode:UBCBBM" ; Times: 2
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "peromyscus merriami stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Myotis keeni" ; Times: 3
+	Query: "genus:Lynx specificepithet:rufus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;British Columbia&#34; continent:North America" ; Times: 1
+	Query: "genus:Marmota specificepithet:caligata mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena" ; Times: 2
+	Query: "dipodomys spectabilis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "pika" ; Times: 4
+	Query: "genus:Microtus specificepithet:oregoni mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:merriami mappable:1" ; Times: 1
+	Query: "genus:Scapanus specificepithet:orarius mappable:1 hasmass:1" ; Times: 3
+	Query: "harbor Porpoise" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 3
+	Query: "year &gt;= 1968 year &lt;= 1968 month &gt;= 11 month &lt;= 11 institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 2
+	Query: "specificepithet:pomo genus:Arborimus" ; Times: 2
+	Query: "order:Rodentia class:Mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Scapanus specificepithet:townsendii mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Lynx specificepithet:canadensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:ugyunak mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1 hasmass:1" ; Times: 2
+	Query: "Desmana moschata" ; Times: 3
+	Query: "myotis velifer stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:ochrogenys mappable:1" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "genus:Ondatra specificepithet:zibethicus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis mappable:1 hasmass:1" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "hispid cotton rat stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Vulpes specificepithet:vulpes mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Oreamnos specificepithet:americanus mappable:1" ; Times: 1
+	Query: "genus:Procyon specificepithet:lotor mappable:1 hasmass:1" ; Times: 3
+	Query: "harbor porpoise" ; Times: 1
+	Query: "genus:Microtus specificepithet:pinetorum mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:amoenus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "specificepithet:tundrensis genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 2
+	Query: "genus:Puma specificepithet:concolor mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 5
+	Query: "Sigmodon hispidus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "Desmana" ; Times: 2
+	Query: "genus:Mustela specificepithet:frenata mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:oregoni mappable:1" ; Times: 1
+	Query: "myotis evotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Galiano Island" ; Times: 8
+	Query: "genus:Ovis specificepithet:dalli mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "Lontra canadensis mappable:1" ; Times: 3
+	Query: "specificepithet:phocoena genus:phocoena" ; Times: 2
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 4
+	Query: "genus:Sorex specificepithet:ugyunak mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (domestic)" ; Times: 1
+	Query: "genus:Sorex specificepithet:fumeus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Ovis specificepithet:canadensis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1 hasmass:1" ; Times: 2
+	Query: "blue whale" ; Times: 3
+	Query: "specificepithet:hoyi genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius mappable:1" ; Times: 1
+	Query: "specificepithet:hemionus sitkensis genus:Odocoileus mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:townsendii mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Mus institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes order:Rodentia class:Mammalia institutioncode:UBCBBM" ; Times: 4
+	Query: "specificepithet:palustris genus:Sorex institutioncode:UBCBBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1359 download events in this period)
+Total number of records downloaded: 1613
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Poland ; Times: 5
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 46
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-27 ; Times: 5
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 6
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 3
+	Date: 2018-04-09 ; Times: 9
+	Date: 2018-04-08 ; Times: 6
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 9
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 9
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "bald eagle washington" ; Times: 1
+	Query: "specificepithet:tundrensis genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Sciuridae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Galiano Island" ; Times: 2
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "lepus europaeus" ; Times: 1
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "genus:Mus country:&#34;Canada&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex institutioncode:UBCBBM" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Yukon&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "specificepithet:hemionus sitkensis genus:Odocoileus mappable:1" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "specificepithet:splendens genus:Tachyoryctes country:&#34;Kenya&#34;" ; Times: 1
+
+
+End of report.
