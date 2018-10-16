@@ -1,0 +1,145 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1150
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 32
+	Country: Italy ; Times: 10
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 13
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-29 ; Times: 5
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus lengthtype:head-body length" ; Times: 1
+	Query: "genus:Oreamnos institutioncode:UBCBBM" ; Times: 3
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:ovis institutioncode:UBCBBM" ; Times: 3
+	Query: "Tamias minimus caniceps" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;washington&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "genus:Antilocapra institutioncode:UBCBBM" ; Times: 6
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "vntype:specimen genus:mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "british columbia shrew" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela institutioncode:UBCBBM haslength:1" ; Times: 2
+	Query: "institutioncode:ubcbbm preparations:skeleton" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1960 year &lt;= 1969 institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UBCBBM" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "genus:Mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "blue whale" ; Times: 2
+	Query: "vntype:specimen genus:antilocapra institutioncode:UBCBBM" ; Times: 1
+	Query: "year &gt;= 2015 year &lt;= 2018 institutioncode:UBCBBM" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 4
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "muntjac" ; Times: 1
+	Query: "vntype:specimen (saiga tatarica skeleton skull)" ; Times: 1
+	Query: "lengthinmm &gt;= 1 lengthinmm &lt;= 1000 lengthtype:head-body length range" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1178 download events in this period)
+Total number of records downloaded: 1695
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "african Elephant" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela institutioncode:UBCBBM haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "genus:Mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
