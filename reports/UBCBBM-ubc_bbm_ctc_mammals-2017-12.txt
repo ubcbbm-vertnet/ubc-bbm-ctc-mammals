@@ -1,0 +1,163 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 1190
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Gambia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-04 ; Times: 24
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Black bear mammal" ; Times: 2
+	Query: "vntype:specimen genus:capra institutioncode:UBCBBM" ; Times: 1
+	Query: "ermine" ; Times: 1
+	Query: "institutioncode:UBCBBM vulpes lagopus" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "vntype:specimen genus:oreamnos institutioncode:UBCBBM" ; Times: 2
+	Query: "muskrat" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "gerbil" ; Times: 1
+	Query: "Least Weasel" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "Spalax leucodon" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus hasmass:1" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "genus:lycaon country:&#34;kenya&#34;" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "vntype:specimen specificepithet:dalli genus:ovis institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zapus 2475" ; Times: 1
+	Query: "Robbin" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "sunshine coast" ; Times: 9
+	Query: "Red wolf" ; Times: 1
+	Query: "genus:lontra country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "least weasel" ; Times: 1
+	Query: "rock hyrax" ; Times: 1
+	Query: "vancouver island marmot" ; Times: 1
+	Query: "Ermine" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "alces alces institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 674 download events in this period)
+Total number of records downloaded: 7916
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Brazil ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-26 ; Times: 21
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Peromyscus keeni mappable:1" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
