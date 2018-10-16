@@ -1,0 +1,313 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 1585
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 28
+	Country: United States ; Times: 41
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 147
+	Country: United Kingdom ; Times: 2
+	Country: Ireland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 10
+	Date: 2018-02-02 ; Times: 16
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-04 ; Times: 127
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 7
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 10
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 7
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bassariscus and California" ; Times: 1
+	Query: "specificepithet:splendens genus:tachyoryctes country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "continent:europe institutioncode:UBCBBM" ; Times: 2
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M008001&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002892&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M008514&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:UBCBBM" ; Times: 1
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "giant flying squirrel" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001525&#34;" ; Times: 2
+	Query: "Elephas maximus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002775&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M008275&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000870&#34;" ; Times: 2
+	Query: "Tragelaphus scriptus" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002197&#34;" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Perissodactyla country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:spilogale stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "year &gt;= 1947 year &lt;= 1947 month &gt;= 5 month &lt;= 7 institutioncode:UBCBBM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000865&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M003026&#34;" ; Times: 2
+	Query: "Ringtail and California" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001825&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001816&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002893&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002751&#34;" ; Times: 2
+	Query: "Helarctos malayanus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007319&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007321&#34;" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;lincoln&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:UBCBBM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002196&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001826&#34;" ; Times: 2
+	Query: "(Guiguet) year &gt;= 1947 year &lt;= 1947 month &gt;= 6 month &lt;= 7 institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:balaenoptera institutioncode:UBCBBM" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002199&#34;" ; Times: 2
+	Query: "(Langara Guiguet)" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007320&#34;" ; Times: 2
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M006884&#34;" ; Times: 2
+	Query: "Chlorotalpa sclateri " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002750&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001894&#34;" ; Times: 2
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830 giant flying squirrel" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000803&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001827&#34;" ; Times: 2
+	Query: "pika" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002201&#34;" ; Times: 2
+	Query: "specificepithet:ignitus genus:acomys country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002314&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002198&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007323&#34;" ; Times: 2
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830 flying" ; Times: 1
+	Query: "shrew stateprovince:&#34;Washington&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 1
+	Query: "genus:Ziphius institutioncode:UBCBBM" ; Times: 1
+	Query: "Alces alces andersoni" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002891&#34;" ; Times: 2
+	Query: "Meadow Jumping Mouse" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001817&#34;" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera preparations:baleen" ; Times: 1
+	Query: "country:&#34;Canada&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001820&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002313&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002200&#34;" ; Times: 2
+	Query: "Alces alces americana" ; Times: 3
+	Query: "Alces alces shirasi" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002748&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M008543&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002368&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007322&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002408&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000802&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001821&#34;" ; Times: 2
+	Query: "macaca mulatta" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M017459&#34;" ; Times: 2
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "wolverine institutioncode:UBCBBM" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M003168&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000869&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002749&#34;" ; Times: 2
+	Query: "(Guiguet) year &gt;= 1947 year &lt;= 1948 institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Rattus locality:Queen Charlotte institutioncode:UBCBBM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001526&#34;" ; Times: 2
+	Query: "cervus canadensis mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002369&#34;" ; Times: 2
+	Query: "edule" ; Times: 2
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002319&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M007324&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M001524&#34;" ; Times: 2
+	Query: "Pangolin" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002321&#34;" ; Times: 2
+	Query: "wolverine year &gt;= 1950 year &lt;= 2017 institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;lincoln&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "(Guiguet Langara) year &gt;= 1947 year &lt;= 1948 institutioncode:UBCBBM" ; Times: 1
+	Query: "Bassariscus astutus and California" ; Times: 1
+	Query: "roan antelope" ; Times: 1
+	Query: "specificepithet:ignitus genus:acomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002202&#34;" ; Times: 2
+	Query: "Ovis dalli mappable:1" ; Times: 1
+	Query: "Hyena" ; Times: 1
+	Query: "genus:Rattus stateprovince:&#34;British columbia&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon institutioncode:UBCBBM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002419&#34;" ; Times: 2
+	Query: "B-1357" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Dromedary data" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:UBCBBM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M003082&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M002420&#34;" ; Times: 2
+	Query: "specificepithet:scriptus genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UBCBBM:CTC:M000854&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 114 (out of 1892 download events in this period)
+Total number of records downloaded: 10028
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 95
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-02 ; Times: 7
+	Date: 2018-02-01 ; Times: 68
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "continent:europe preparations:skin institutioncode:UBCBBM" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Gerbillus nanus" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "genus:Rattus stateprovince:&#34;British columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:lemmus hasmass:1" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
