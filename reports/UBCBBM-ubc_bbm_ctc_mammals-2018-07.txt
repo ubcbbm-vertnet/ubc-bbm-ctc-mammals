@@ -1,0 +1,91 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 721
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 18
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 6
+	Date: 2018-07-21 ; Times: 4
+	Date: 2018-07-26 ; Times: 6
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "nelsoni kern" ; Times: 2
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34;" ; Times: 2
+	Query: "Ovis institutioncode:UBCBBM" ; Times: 3
+	Query: "wilson 1855" ; Times: 1
+	Query: "specificepithet:pumilio genus:rhabdomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:pumilio genus:rhabdomys country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Leopard seal vntype:specimen" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "vntype:specimen class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "vole skulls" ; Times: 2
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Mountain Goat institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "neotoma magister" ; Times: 2
+	Query: "vntype:specimen family:Sciuridae class:mammalia institutioncode:UBCBBM" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "Boar skull" ; Times: 1
+	Query: "genus:rhabdomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Leopard seal" ; Times: 2
+	Query: "Aberdeen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 1198
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cuniculus paca" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+
+
+End of report.
