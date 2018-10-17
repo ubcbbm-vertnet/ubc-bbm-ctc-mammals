@@ -1,0 +1,189 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1097
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Canada ; Times: 28
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-07 ; Times: 25
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-14 ; Times: 23
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "( Proboscidea) institutioncode:UBCBBM" ; Times: 1
+	Query: "bison institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Lemur" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "papio anubis" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "(camel) institutioncode:UBCBBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "genus:Vulpes institutioncode:UBCBBM" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "(ursus) institutioncode:UBCBBM" ; Times: 4
+	Query: "Lontra longicaudis Mexico" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "(elephant) institutioncode:UBCBBM" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "(Proboscidea) institutioncode:UBCBBM" ; Times: 3
+	Query: "genus:martes distance(location,geopoint(51.52657830795719,-128.02734375))&lt;185790" ; Times: 1
+	Query: "bobcat stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "Desert bighorn sheep" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "pangolin" ; Times: 2
+	Query: "ac-356" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "catalognumber:M001952 institutioncode:UBCBBM" ; Times: 2
+	Query: "flying squirrel" ; Times: 3
+	Query: "olive baboon vntype:specimen" ; Times: 1
+	Query: "Morro bay kangaroo rat" ; Times: 1
+	Query: "olive baboon" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "(bison) institutioncode:UBCBBM" ; Times: 11
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "catalognumber:M003459 institutioncode:UBCBBM" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "catalognumber:M002459 institutioncode:UBCBBM" ; Times: 2
+	Query: "pika" ; Times: 4
+	Query: "mountain lion" ; Times: 5
+	Query: "catalognumber:M002147 institutioncode:UBCBBM" ; Times: 2
+	Query: "Seal Fur" ; Times: 3
+	Query: "(tusk) institutioncode:UBCBBM" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "family:Lemuridae" ; Times: 1
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+	Query: "Aardwolf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1169 download events in this period)
+Total number of records downloaded: 8541
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-07 ; Times: 28
+	Date: 2018-06-06 ; Times: 10
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "papio anubis" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "hyena" ; Times: 1
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "Bobcat" ; Times: 1
+	Query: "Morro bay kangaroo rat" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "pika" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Mountain Lion" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
