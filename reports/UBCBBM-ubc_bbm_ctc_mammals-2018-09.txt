@@ -1,0 +1,138 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 361
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Canada ; Times: 10
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-25 ; Times: 11
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 7
+	Date: 2018-09-07 ; Times: 5
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "specificepithet:xanthognathus genus:Microtus institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "Wolverine" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "genus:gorilla institutioncode:UBCBBM" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "Pika" ; Times: 1
+	Query: "specificepithet:affinis genus:Ratufa" ; Times: 2
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "genus:pan institutioncode:UBCBBM" ; Times: 3
+	Query: "Glaucomys oregonensis" ; Times: 1
+	Query: "ancient mammal" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 2
+	Query: "institutioncode:ubcbbm canidae" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.13803159902701,-79.79736328125))&lt;247840.770513055" ; Times: 1
+	Query: "desmana moschata" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo locality:Vancouver" ; Times: 1
+	Query: "family:castoridae order:rodentia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "gulo gulo vancouverensis" ; Times: 1
+	Query: "specificepithet:merriami genus:Cratogeomys" ; Times: 2
+	Query: "Mountain lion" ; Times: 1
+	Query: "chimpanzee institutioncode:UBCBBM" ; Times: 2
+	Query: "gorilla institutioncode:UBCBBM" ; Times: 1
+	Query: "class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "least weasel" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 846 download events in this period)
+Total number of records downloaded: 1327
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Norway ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 15
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-07 ; Times: 6
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "Mountain lion" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "berardius bairdii" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "specificepithet:meles genus:Meles mappable:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+
+
+End of report.
