@@ -1,0 +1,122 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 856
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 5
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-22 ; Times: 7
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-14 ; Times: 10
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "family:manidae institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus stateprovince:&#34;British Columbia&#34; catalognumber:M006053 collectioncode:CTC institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "ateles hybridus" ; Times: 3
+	Query: "lepus americanus stateprovince:&#34;British Columbia&#34; catalognumber:M006039 collectioncode:CTC institutioncode:UBCBBM" ; Times: 1
+	Query: "lepus americanus stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Capra pyrenaica" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "mounted institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis institutioncode:UBCBBM" ; Times: 4
+	Query: "lepus americanus stateprovince:&#34;British Columbia&#34; catalognumber:M006042 collectioncode:CTC institutioncode:UBCBBM" ; Times: 1
+	Query: "preparations:mounted institutioncode:UBCBBM" ; Times: 2
+	Query: "eagle vntype:specimen institutioncode:UBCBBM" ; Times: 2
+	Query: "troglodytes institutioncode:UBCBBM" ; Times: 2
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "class:mammalia country:&#34;canada&#34; year &gt;= 1941 year &lt;= 1941" ; Times: 1
+	Query: "european rabbit" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "Eulemur" ; Times: 1
+	Query: "Glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "least weasel" ; Times: 4
+	Query: "Mohave ground squirrel" ; Times: 1
+	Query: "Racey Santa BArbara" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Newfoundland and labrador&#34; country:&#34;canada&#34; year &gt;= 1941 year &lt;= 1941" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (phasma)" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1416 download events in this period)
+Total number of records downloaded: 537
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 4
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus polionotus phasma" ; Times: 2
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "Mus musculus domesticus vntype:specimen genus:Mus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
