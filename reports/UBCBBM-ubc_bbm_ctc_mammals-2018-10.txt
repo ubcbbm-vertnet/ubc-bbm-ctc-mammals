@@ -1,0 +1,206 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 1615
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 115
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: New Zealand ; Times: 6
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 19
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 4
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-01 ; Times: 11
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 11
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 30
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-19 ; Times: 11
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-18 ; Times: 16
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-16 ; Times: 8
+	Date: 2018-10-15 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 2
+	Query: "class:Mammalia coendou prehensilis" ; Times: 1
+	Query: "specificepithet:brachyura genus:Hystrix" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "northern raccoon year &gt;= 1971" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen blue whale" ; Times: 1
+	Query: "specificepithet:merriami genus:Cratogeomys" ; Times: 7
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "specificepithet:notatus genus:Callosciurus" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 2
+	Query: "specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "pronghorn" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 8
+	Query: "specificepithet:sagitta genus:Dipus" ; Times: 1
+	Query: "northern raccoon" ; Times: 1
+	Query: "specificepithet:capensis genus:Pedetes" ; Times: 1
+	Query: "specificepithet:richardsoni genus:Microtus" ; Times: 1
+	Query: "specificepithet:pomo genus:Arborimus" ; Times: 1
+	Query: "ghost fish" ; Times: 1
+	Query: "free-tailed stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "american shrew-mole" ; Times: 2
+	Query: "specificepithet:oeconomus genus:microtus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "class:mammalia locality:maria magdalena country:&#34;mexico&#34;" ; Times: 3
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:affinis genus:Ratufa" ; Times: 8
+	Query: "chinchilla mammalia" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "peromyscus institutioncode:UBCBBM" ; Times: 2
+	Query: "peromyscus keeni institutioncode:UBCBBM" ; Times: 1
+	Query: "peromyscus keeni island AND (NOT alaska NOT queen)" ; Times: 1
+	Query: "specificepithet:vancouverensis genus:Marmota" ; Times: 1
+	Query: "genus:Theropithecus" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys" ; Times: 1
+	Query: "Free tailed country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "Aardvark" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen orcinus orca" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Blue whale" ; Times: 1
+	Query: "Marmota vancouverensis" ; Times: 3
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "mountain beaver" ; Times: 3
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "specificepithet:bulbivorus genus:Thomomys" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 8
+	Query: "specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cooperi genus:Synaptomys hasmass:1" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+	Query: "CJ 1425" ; Times: 2
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:talpinus genus:Ellobius" ; Times: 8
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "order:chiroptera locality:maria magdalena country:&#34;mexico&#34;" ; Times: 1
+	Query: "blue whale" ; Times: 4
+	Query: "peromyscus keeni island institutioncode:UBCBBM" ; Times: 5
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota" ; Times: 1
+	Query: "Gulo gulo vancouverensis" ; Times: 1
+	Query: "specificepithet:compactus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:subtilis genus:Sicista" ; Times: 1
+	Query: "family:Bovidae haslifestage:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Spermophilus" ; Times: 1
+	Query: "peromyscus keeni island british columbia AND (NOT alaska NOT queen NOT waddington)" ; Times: 3
+	Query: "specificepithet:splendens genus:Tachyoryctes" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex mappable:1" ; Times: 9
+	Query: "Molossidae country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:telum genus:Stylodipus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1300 download events in this period)
+Total number of records downloaded: 5108
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-07 ; Times: 6
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;british columbia&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:oeconomus genus:microtus stateprovince:&#34;alaska&#34; AND (NOT &#34;island&#34;) haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "peromyscus keeni island AND (NOT alaska NOT queen)" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "ochotona collaris" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:tamiasciurus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mammals colombia" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "specificepithet:rutilus genus:myodes stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.825504361125255,-75.76879422743627))&lt;339749" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "Myotis leibii genus:Myotis" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
