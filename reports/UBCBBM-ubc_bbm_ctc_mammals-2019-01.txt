@@ -1,0 +1,221 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 2334
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Israel ; Times: 1
+	Country: United States ; Times: 130
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-18 ; Times: 5
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 7
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-30 ; Times: 8
+	Date: 2019-01-31 ; Times: 9
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-29 ; Times: 53
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 10
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Garibaldi" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 18000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Mule Deer" ; Times: 1
+	Query: "lepus vntype:specimen institutioncode:UBCBBM" ; Times: 2
+	Query: "22236" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 7
+	Query: "Marmota vancouverensis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "North american porcupine &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "british columbia specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "tree shrew" ; Times: 2
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:senex genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Martes institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 15000 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 17
+	Query: "Saskatchewan specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UBCBBM" ; Times: 4
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 1
+	Query: "Rhynchocyon petersi" ; Times: 2
+	Query: "manitoba specificepithet:latrans genus:canis family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "honey badger" ; Times: 1
+	Query: "catalognumber:m006085 institutioncode:UBCBBM" ; Times: 1
+	Query: "Anguinae" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus country:&#34;Canada&#34; continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti) institutioncode:UBCBBM" ; Times: 1
+	Query: "stipa vntype:specimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "hyrax israel" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 3
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Northwest territories&#34; country:&#34;Canada&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys sabrinus Huntingdon" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "Northwest territories specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 10000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys oregonensis vntype:specimen" ; Times: 2
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "erethizon and north american porcupine" ; Times: 2
+	Query: "hydrurga leptonyx" ; Times: 3
+	Query: "Arctic fox" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:UBCBBM" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America" ; Times: 1
+	Query: "&#34;North American Porcupine&#34; and &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "catalognumber:m006084 institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias" ; Times: 2
+	Query: "(&#34;North American Porcupine&#34; &#34;Erethizon Dorsatum&#34;)" ; Times: 2
+	Query: "North American Porcupine Erethizon dorsatum" ; Times: 4
+	Query: "(&#34;North American Porcupine&#34;)" ; Times: 3
+	Query: "Glaucomys oregonensis" ; Times: 2
+	Query: "Hylobates moloch" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:striatus genus:tamias institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 962 download events in this period)
+Total number of records downloaded: 1595
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 41
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-29 ; Times: 14
+	Date: 2019-01-31 ; Times: 4
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Glaucomys oregonensis vntype:specimen" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti)" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+
+
+End of report.
