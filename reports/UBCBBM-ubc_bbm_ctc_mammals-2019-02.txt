@@ -1,0 +1,122 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 4007
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 180
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-13 ; Times: 63
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-25 ; Times: 31
+	Date: 2019-02-26 ; Times: 53
+	Date: 2019-02-27 ; Times: 9
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Oreamnos americanus&#34;" ; Times: 1
+	Query: "institutioncode:UBCBBM Megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "american Pika" ; Times: 3
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "orcinus orca institutioncode:UBCBBM" ; Times: 2
+	Query: "pronghorn" ; Times: 1
+	Query: "syringa" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 6
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "&#34;Ursus americanus&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 52
+	Query: "American Pika" ; Times: 3
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Kazakh" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Lontra longicaudis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "cmc country:&#34;canada&#34;" ; Times: 3
+	Query: "specificepithet:tereticaudus genus:spermophilus county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 49
+	Query: "pika" ; Times: 2
+	Query: "&#34;american pika&#34;" ; Times: 1
+	Query: "american mink" ; Times: 2
+	Query: "(Vassar)" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "&#34;Gulo gulo&#34; year &gt;= 1900 year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "american pika" ; Times: 26
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "mountain lion" ; Times: 3
+	Query: "Ochotona collaris" ; Times: 16
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1227 download events in this period)
+Total number of records downloaded: 216
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Lontra longicaudis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UBCBBM" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
