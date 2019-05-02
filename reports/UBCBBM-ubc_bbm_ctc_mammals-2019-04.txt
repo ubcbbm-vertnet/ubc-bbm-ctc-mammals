@@ -1,0 +1,181 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 2052
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 4
+	Country: United States ; Times: 59
+	Country: Malaysia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 10
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 17
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-22 ; Times: 8
+	Date: 2019-04-30 ; Times: 11
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 9
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Spilogale institutioncode:UBCBBM" ; Times: 1
+	Query: "mohave ground squirrel" ; Times: 1
+	Query: "mongoose" ; Times: 1
+	Query: "ringed seal" ; Times: 1
+	Query: "pika body length" ; Times: 2
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "lepus israel" ; Times: 1
+	Query: "vagrant shrew" ; Times: 6
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "&#34;british columbia&#34; genus:Sciurus" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 4
+	Query: "northern elephant seal" ; Times: 1
+	Query: "Bighorn Sheep" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "genus:Mephitis institutioncode:UBCBBM" ; Times: 1
+	Query: "vulpes vulpes cascadensis" ; Times: 1
+	Query: "golden-mantled ground squirrel" ; Times: 3
+	Query: "Mus musculus (Mus and musculus or domesticus)" ; Times: 1
+	Query: "Procavia capensis israel" ; Times: 1
+	Query: "moose UBCBBM" ; Times: 11
+	Query: "Dipodomys compactus" ; Times: 2
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:UBCBBM" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "Miniopterus arenarius" ; Times: 1
+	Query: "alces alces UBCBBM" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 4
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "flying squirrel" ; Times: 2
+	Query: "glaucomys oregonensis" ; Times: 2
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "&#34;british Columbia&#34; genus:Sciurus" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "american mink" ; Times: 2
+	Query: "snowshoe hare" ; Times: 6
+	Query: "bearded seal" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "red wolf" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1263 download events in this period)
+Total number of records downloaded: 1774
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 9
+	Date: 2019-04-02 ; Times: 17
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 6
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:longicaudis genus:Lontra family:Mustelidae" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "northern elephant seal" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+
+
+End of report.
