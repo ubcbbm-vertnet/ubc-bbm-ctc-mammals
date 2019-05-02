@@ -1,0 +1,134 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 594
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 37
+	Country: Costa Rica ; Times: 1
+	Country: Uganda ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 3
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "mohave ground squirrel" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "ocelot" ; Times: 3
+	Query: "orcinus orca institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "spider monkey" ; Times: 1
+	Query: "beaver institutioncode:UBCBBM" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "order:Artiodactyla country:&#34;Canada&#34;" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Stanley Park zoo" ; Times: 1
+	Query: "gbifdatasetid:3ad882bb-cd21-4201-8b83-3684bfc6d830" ; Times: 2
+	Query: "Kenya vntype:specimen specificepithet:pictus family:Canidae" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "hamster specificepithet:sungorus genus:phodopus" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "castor institutioncode:UBCBBM" ; Times: 1
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "Sitatunga" ; Times: 2
+	Query: "mountain goat" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Leopardus pardalis hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1281 download events in this period)
+Total number of records downloaded: 1967
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "panda" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "dipus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "class:Mammalia funambulus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+
+
+End of report.
