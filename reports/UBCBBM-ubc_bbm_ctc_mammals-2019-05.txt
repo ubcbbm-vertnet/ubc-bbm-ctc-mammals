@@ -1,0 +1,107 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 93
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Ethiopia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-27 ; Times: 6
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "miniopterus arenarius" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Capybara" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Gerbillus hasmass:1" ; Times: 5
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "roan antelope" ; Times: 1
+	Query: "UBCBBM CTC M003012" ; Times: 1
+	Query: "Miniopterus natalensis arenarius" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "Lemuridae" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "genus:perodicticus preparations:skeleton" ; Times: 1
+	Query: "Capybara skull" ; Times: 2
+	Query: "Helarctos malayanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 354
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Ethiopia ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "IF 396" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "arborimus pomo" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "roan antelope" ; Times: 2
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+
+
+End of report.
