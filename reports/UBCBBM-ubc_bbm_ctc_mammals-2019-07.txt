@@ -1,0 +1,136 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 828
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 43
+	Country: Nepal ; Times: 12
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 13
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-21 ; Times: 9
+	Date: 2019-07-14 ; Times: 4
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-19 ; Times: 7
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "specificepithet:vison genus:mustela preparations:skull institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "c.j. krebs" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "UBCBBM Beaver Creek Alberni" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;nova scotia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "nutria mammal" ; Times: 1
+	Query: "genus:Dipus specificepithet:sagitta" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "American Mink" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 2
+	Query: "specificepithet:idahoensis genus:Brachylagus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "genus:Saimiri specificepithet:oerstedii" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 985 download events in this period)
+Total number of records downloaded: 466
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-23 ; Times: 8
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
