@@ -1,0 +1,228 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 226
+Number of records retrieved in searches: 1905
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 121
+	Country: United Kingdom ; Times: 16
+	Country: Sri Lanka ; Times: 18
+	Country: Thailand ; Times: 54
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 12
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-07 ; Times: 14
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 30
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 14
+	Date: 2019-08-09 ; Times: 18
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-22 ; Times: 8
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 17
+	Date: 2019-08-21 ; Times: 50
+	Date: 2019-08-15 ; Times: 9
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 9
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-30 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Neoromicia capensis haslength:1" ; Times: 2
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "genus:Hipposideros lengthtype:head-body length hasmass:1 haslength:1" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Miniopterus natalensis haslength:1" ; Times: 2
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "specificepithet:Mephitis genus:mephitis hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "genus:Ovis hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "genus:martes stateprovince:&#34;British Columbia&#34; (haida gwaii)" ; Times: 1
+	Query: "genus:Leopardus hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Ratufa affinis" ; Times: 12
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Chaerephon pumilus haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 2
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 18
+	Query: "CJ 5467" ; Times: 4
+	Query: "genus:Sigmodon county:&#34;Lincoln&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "specificepithet:maniculatus genus:peromyscus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "genus:microtus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "genus:martes stateprovince:&#34;British Columbia&#34; (queen charlotte)" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Rhinolophus capensis haslength:1" ; Times: 2
+	Query: "genus:Ursus hasmass:1 haslength:1" ; Times: 2
+	Query: "Hipposideros caffer haslength:1" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "Saimiri oerstedii" ; Times: 1
+	Query: "Myotis melanorhinus haslength:1" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Rhinolophus clivosus haslength:1" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 1
+	Query: "genus:Puma hasmass:1 haslength:1" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Nycteris macrotis haslength:1" ; Times: 2
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "Pika" ; Times: 1
+	Query: "douglas squirrel" ; Times: 3
+	Query: "genus:Cebus haslength:1" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 5
+	Query: "mountain goat" ; Times: 2
+	Query: "ratufa affinis" ; Times: 6
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 16
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Miniopterus africanus haslength:1" ; Times: 2
+	Query: "Epomophorus labiatus haslength:1" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:reithrodontomys class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "CJ 1395" ; Times: 5
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "CJ 1396" ; Times: 4
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Townsend ground squirrel" ; Times: 1
+	Query: "specificepithet:vison genus:mustela" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Hipposideros commersoni haslength:1" ; Times: 2
+	Query: "Nyctalus noctula haslength:1" ; Times: 2
+	Query: "eulemur" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1034 download events in this period)
+Total number of records downloaded: 1936
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "genus:Sigmodon county:&#34;Lincoln&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
