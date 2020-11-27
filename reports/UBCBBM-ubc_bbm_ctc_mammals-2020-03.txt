@@ -1,0 +1,154 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 498
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Canada ; Times: 9
+	Country: Taiwan ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-18 ; Times: 13
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-21 ; Times: 9
+	Date: 2020-03-20 ; Times: 10
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-29 ; Times: 11
+	Date: 2020-03-02 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Nycteris macrotis" ; Times: 2
+	Query: "meminna" ; Times: 1
+	Query: "genus:mustela county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "genus:Mustela frenata xanthogenys" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 2
+	Query: "Vulpes vulpes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "moschiola" ; Times: 1
+	Query: "martes americana preparations:skeleton institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela haslength:1" ; Times: 1
+	Query: "Rhinolophus capensis" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 2
+	Query: "Miniopterus natalensis" ; Times: 2
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus haslength:1" ; Times: 2
+	Query: "red panda" ; Times: 1
+	Query: "specificepithet:hudsonius alascensis genus:zapus country:&#34;canada&#34;" ; Times: 1
+	Query: "River otter skull" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "specificepithet:concolor genus:nomascus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "genus:Papio specificepithet:anubis" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "vntype:specimen genus:Glaucomys stateprovince:&#34;North Carolina&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys oregonensis" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Macroglossus sobrinus" ; Times: 2
+	Query: "martes americana institutioncode:UBCBBM" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "Epomophorus labiatus" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "specificepithet:europaeus genus:Erinaceus haslength:1" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:hawes" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Zapus hudsonius alascensis" ; Times: 4
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Rhinolophus clivosus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys stateprovince:&#34;North Carolina&#34; haslength:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Didelphis family:Didelphidae" ; Times: 1
+	Query: "Neoromicia capensis" ; Times: 2
+	Query: "Myotis keenii" ; Times: 2
+	Query: "hyena" ; Times: 2
+	Query: "specificepithet:anubis genus:Papio haslength:1" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:hudsonius alascensis genus:zapus stateprovince:&#34;British Columbia&#34; country:&#34;canada&#34;" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Tadarida braziliensis" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 853 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 12
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+
+
+End of report.
