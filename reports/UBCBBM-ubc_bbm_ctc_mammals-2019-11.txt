@@ -1,0 +1,174 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 815
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 73
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 59
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-30 ; Times: 5
+	Date: 2019-11-15 ; Times: 8
+	Date: 2019-11-14 ; Times: 4
+	Date: 2019-11-16 ; Times: 9
+	Date: 2019-11-11 ; Times: 6
+	Date: 2019-11-10 ; Times: 9
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-08 ; Times: 7
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-09 ; Times: 7
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 14
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-03 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "jird" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Spotted skunk" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "oreamnos americanus hasmass:1 haslength:1" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1992" ; Times: 1
+	Query: "Fox squirrel" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1800 year &lt;= 1942" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Elephas maximus" ; Times: 4
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Myotis septentrionalis 2015" ; Times: 3
+	Query: "genus:lynx rufus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Myotis septentrionalis 2006" ; Times: 4
+	Query: "Leptonychotes weddellii" ; Times: 1
+	Query: "Lynx canadensis 2019" ; Times: 4
+	Query: "specificepithet:jacksoni genus:Sorex" ; Times: 1
+	Query: "Gulo luscus" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Silver-haired bat" ; Times: 1
+	Query: "Trichosurus caninus" ; Times: 1
+	Query: "big free-tailed bat" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "Marmota caligata" ; Times: 3
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1930 year &lt;= 1942" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "Oreamnos americanus" ; Times: 7
+	Query: "american mink" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Castor canadensis hastissue:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1962" ; Times: 1
+	Query: "Myotis sodalis 2015" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Lontra longicaudis" ; Times: 6
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:eptesicus stateprovince:&#34;Minnesota&#34;" ; Times: 5
+	Query: "narwhal" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1367 download events in this period)
+Total number of records downloaded: 310
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Red Panda" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:Chaetodipus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
