@@ -1,0 +1,106 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 569
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 5
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 7
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-22 ; Times: 4
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-10 ; Times: 12
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:martes institutioncode:UBCBBM" ; Times: 2
+	Query: "SERVAL" ; Times: 1
+	Query: "specificepithet:americana genus:martes institutioncode:UBCBBM" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;british Columbia&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:Hyaena genus:Hyaena" ; Times: 1
+	Query: "young rev 1932" ; Times: 2
+	Query: "Striped hyena" ; Times: 1
+	Query: "genus:Rattus continent:europe year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rev young" ; Times: 6
+	Query: "wild boar" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 2
+	Query: "genus:mus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "rev young pine" ; Times: 1
+	Query: "rock vole" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "western harvest mouse stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 596 download events in this period)
+Total number of records downloaded: 539
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;british Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
