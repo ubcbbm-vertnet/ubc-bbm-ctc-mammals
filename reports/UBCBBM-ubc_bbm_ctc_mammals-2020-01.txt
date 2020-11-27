@@ -1,0 +1,208 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1675
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 84
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 6
+	Country: Bolivia ; Times: 2
+	Country: Kazakhstan ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 10
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 33
+	Date: 2020-01-14 ; Times: 4
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 7
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-31 ; Times: 11
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 9
+	Date: 2020-01-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "order:soricomorpha stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "order:Carnivora stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:javanica genus:manis country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 2
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "&#34;sea otter&#34;" ; Times: 1
+	Query: "mclean county il" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Cheetah" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "hylobates moloch" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "specificepithet:javanica genus:manis" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;British Columbia&#34;" ; Times: 11
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Rangifer tarandus caribou mappable:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "family:Procyonidae order:Carnivora stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 2
+	Query: "cheetah" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 2
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:javanica genus:Manis" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "specificepithet:Vison genus:Mustela continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "family:Mustelidae order:Carnivora stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:pipistrellus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "short eared owl" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "phoca sibirica" ; Times: 2
+	Query: "specificepithet:Rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:Vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "REV order:rodentia" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "rock vole" ; Times: 1
+	Query: "ursus maritimus institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Mephitidae order:Carnivora stateprovince:&#34;British Columbia&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "Ocelot" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "Hylobates moloch" ; Times: 4
+	Query: "mountain lion" ; Times: 1
+	Query: "order:Carnivora institutioncode:UBCBBM" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1584 download events in this period)
+Total number of records downloaded: 1310
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 50
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-17 ; Times: 9
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 7
+	Date: 2020-01-12 ; Times: 9
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-30 ; Times: 11
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Dasyurus maculatus" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:californicus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "family:Didelphidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+
+
+End of report.
