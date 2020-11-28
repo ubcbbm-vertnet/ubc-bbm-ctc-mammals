@@ -1,0 +1,285 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1647
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 127
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 33
+	Country: Austria ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-18 ; Times: 9
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-12 ; Times: 6
+	Date: 2020-10-13 ; Times: 40
+	Date: 2020-10-30 ; Times: 7
+	Date: 2020-10-31 ; Times: 6
+	Date: 2020-10-14 ; Times: 8
+	Date: 2020-10-15 ; Times: 6
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-21 ; Times: 11
+	Date: 2020-10-02 ; Times: 7
+	Date: 2020-10-27 ; Times: 6
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+	Date: 2020-10-03 ; Times: 4
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 35
+	Date: 2020-10-04 ; Times: 7
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-17 ; Times: 15
+	Date: 2020-10-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys attwateri county:&#34;san patricio&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 2
+	Query: "specificepithet:americana and caurina genus:Martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "capra pyrenaica country:&#34;France&#34;" ; Times: 2
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "north American porcupine" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:hemionus genus:odocoileus hasmass:1 haslength:1" ; Times: 2
+	Query: "sockeye" ; Times: 1
+	Query: "Odocoileus hemionus sex:Female hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ziphius cavirostris" ; Times: 2
+	Query: "Geomys breviceps locality:College Station county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "MAMMAL MISSOURI sigmodon hispidus" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1" ; Times: 1
+	Query: "North American Black Bear" ; Times: 3
+	Query: "MAMMALS MISSOURI RODENTIA REITHRODONTOMYS" ; Times: 1
+	Query: "mappable:1 scientificname:Megaptera novaeangliae" ; Times: 2
+	Query: "capra pyrenaica pyrenaica" ; Times: 2
+	Query: "North American Porcupine hasmass:1 haslength:1" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "scientificname:Tamias sibiricus" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lepus americanus struthopus" ; Times: 1
+	Query: "Mule Deer" ; Times: 1
+	Query: "MAMMAL MISSOURI" ; Times: 1
+	Query: "northern fur seal" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "hoary marmot" ; Times: 2
+	Query: "north american black bear" ; Times: 1
+	Query: "Rhynchocyon petersi" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Neophoca cinerea" ; Times: 1
+	Query: "specificepithet:americana or caurina genus:Martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Flying squirrel" ; Times: 1
+	Query: "water shrew" ; Times: 17
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Martes stateprovince:&#34;British columbia&#34;" ; Times: 3
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "hassex:1 hasmass:1 Odocoileus virginianus" ; Times: 3
+	Query: "pika" ; Times: 3
+	Query: "Felis catus" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "capra pyrenaica vntype:specimen country:&#34;France&#34;" ; Times: 4
+	Query: "Orycteropus aethiopicus" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "Pronghorn" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UBCBBM" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "scientificname:Gulo gulo" ; Times: 3
+	Query: "Water shrew" ; Times: 1
+	Query: "Guiguet Queen Charlotte Islands" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "mappable:1 scientificname:Kogia sima" ; Times: 2
+	Query: "Odocoileus hemionus sex:female haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet: equinus genus: Hippotragus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "Geomys breviceps locality:College Station stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "MAMMAL MISSOURI sylvilagus aquaticus" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 5
+	Query: "MAMMALS MISSOURI RODENTIA" ; Times: 2
+	Query: "scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "pangolin" ; Times: 5
+	Query: "specificepithet:sylvicultor genus:cephalophus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 2
+	Query: "norway rat" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "MAMMAL MISSOURI reithrodontomys fulvescens" ; Times: 1
+	Query: "Odocoileus virginianus hasmass:1" ; Times: 3
+	Query: "Erethizon dorsatum sex:Male hasmass:1" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "North American black bear" ; Times: 1
+	Query: "mule deer" ; Times: 2
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis hasmass:1 haslength:1" ; Times: 1
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "hassex:1 hasmass:1 Virginia opossum (Didelphis virginiana)" ; Times: 3
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "Odocoileus hemionus sex:male hasmass:1" ; Times: 3
+	Query: "MISSOURI RODENTIA peromyscus attwateri" ; Times: 1
+	Query: "MISSOURI cryptotis parva" ; Times: 1
+	Query: "genus:ornithorhynchus preparations:skeleton" ; Times: 2
+	Query: "Homo sapiens" ; Times: 6
+	Query: "Panthera pardus" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "Odocoileus hemionus sex:female hasmass:1" ; Times: 3
+	Query: "Lagenorhynchus obliquidens" ; Times: 2
+	Query: "MAMMAL MISSOURI cryptotis parva" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "specificepithet:ochrogenys genus:tamias class:mammalia institutioncode:UBCBBM" ; Times: 1
+	Query: "white footed mouse" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "catta" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "southern flying squirrel" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 1521 download events in this period)
+Total number of records downloaded: 21161
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-28 ; Times: 10
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-21 ; Times: 5
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-30 ; Times: 3
+	Date: 2020-10-14 ; Times: 19
+	Date: 2020-10-23 ; Times: 7
+	Date: 2020-10-31 ; Times: 13
+	Date: 2020-10-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1925" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "capra pyrenaica pyrenaica" ; Times: 1
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Rhynchocyon petersi" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "hassex:1 hasmass:1 Virginia opossum (Didelphis virginiana)" ; Times: 1
+	Query: "Odocoileus hemionus sex:female haslifestage:1 hasmass:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "herpestes auropunctatus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UBCBBM" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "specificepithet:walleri genus:litocranius" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "specificepithet:sylvicultor genus:cephalophus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen specificepithet:Grevyi genus:Equus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+
+
+End of report.
