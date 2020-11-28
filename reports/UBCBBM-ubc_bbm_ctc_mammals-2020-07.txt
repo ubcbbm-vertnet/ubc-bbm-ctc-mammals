@@ -1,0 +1,147 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 351
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 25
+	Country: Malaysia ; Times: 7
+	Country: Sri Lanka ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 5
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-21 ; Times: 11
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "long tailed weasel" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "silver haired bat" ; Times: 2
+	Query: "Ratufa" ; Times: 1
+	Query: "Callosciurus prevostii" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 4
+	Query: "spotted skunk" ; Times: 2
+	Query: "Tupaia tana" ; Times: 1
+	Query: "callosciurus prevostii" ; Times: 6
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Artemisia" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Budorcas taxicolor" ; Times: 1
+	Query: "genus:Rattus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "Budorcas taxicolor taxicolor" ; Times: 2
+	Query: "Ratufa affinis" ; Times: 4
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Arctogalidia trivirgata" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Erythrocebus" ; Times: 5
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 2
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Scalopus aquaticus texanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 940 download events in this period)
+Total number of records downloaded: 7629
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
