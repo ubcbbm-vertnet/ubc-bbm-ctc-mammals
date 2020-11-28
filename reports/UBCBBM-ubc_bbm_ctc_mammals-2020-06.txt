@@ -1,0 +1,94 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 395
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 41
+	Country: India ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-11 ; Times: 16
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 16
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-12 ; Times: 6
+	Date: 2020-06-17 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "collared lemming" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Homo sapiens" ; Times: 18
+	Query: "takin" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "grey squirrel" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "genus:paguma" ; Times: 1
+	Query: "pacific shrew" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "three toed sloth" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "mountain lion" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 474 download events in this period)
+Total number of records downloaded: 536
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-11 ; Times: 5
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "three toed sloth" ; Times: 1
+	Query: "pacific shrew" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
